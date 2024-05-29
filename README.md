@@ -1,13 +1,13 @@
 # VpnDetect
 
 ## Description
-**VpnDetect** est un plugin qui détecte les adresses IP étrangères qui ne proviennent pas de France. Il permet d'identifier directement les joueurs suspectés d'utiliser un VPN pour rejoindre le jeu.
+**VpnDetect** est un plugin qui détecte & ban les adresses IP étrangères qui ne proviennent pas de France, Belgique, Suisse & Québec. Il permet d'identifier directement les joueurs suspectés d'utiliser un VPN pour rejoindre le jeu.
 
 ## Fonctionnalités
 
 - Préviens les staffs de la connection d'un joueur avec un VPN, dans le chat.
 - Donne le pays où est localisé l'IP
-- Envoie un warn au joueur, pour que les staffs ne l'oublient pas.
+- Ban les joueurs localisé hors de France, Belgique, Suisse et Québec.
 
 ## Installation
 
